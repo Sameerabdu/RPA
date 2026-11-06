@@ -1,0 +1,31 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/
+
+# Screenshots
+*.png
+*.jpg
+
+# OS files
+.DS_Store
+Thumbs.db
